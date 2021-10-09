@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/8KpT1e0.png" width="200" height="200"> </p>
+<p align="center"><img src="https://i.imgur.com/z9liSt6.png" width="146" height="116"> </p>
 <h3 align="center">Super Metroid Disassembly</h3>
 
 # Intro
